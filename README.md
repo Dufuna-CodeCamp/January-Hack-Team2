@@ -1,6 +1,6 @@
 # January-Hack-Team2
 
-Team 2 2022, Repository
+Team 2, Repository
 
 This README explains how to get started with this repository.
 
